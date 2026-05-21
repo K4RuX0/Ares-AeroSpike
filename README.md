@@ -1,4 +1,4 @@
-# ARES-AEROSPIKE V3.1 - Nuclear Thermal Aerospike Performance Model
+# # ARES-AEROSPIKE V3.1 - Nuclear Thermal Aerospike Performance Model
 
 Open-source conceptual model for a 500kN nuclear thermal aerospike engine for Mars transit.
 
@@ -8,11 +8,10 @@ Open-source conceptual model for a 500kN nuclear thermal aerospike engine for Ma
 
 ### Key Performance
 - **Thrust:** 500 kN
-- **Isp:** 780 s
+- **Isp:** 780 s 
 - **T/W:** 0.25
 - **Transit to Mars:** 125 days
 
 ### Run the Model
 ```bash
-python3 ares_aerospike_v31.py# Ares-AeroSpeak
-README
+python3 ares_aerospike_v31.py
