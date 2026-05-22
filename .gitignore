@@ -1,15 +1,22 @@
-# CAD files - NEVER PUSH PUBLIC
+# CAD - ITAR RISK - NEVER PUSH
 *.step
 *.stp
 *.sldprt
 *.sldasm
 *.f3d
+*.catpart
 
-# Temp files
+# Logs e SO
 *.log
 .DS_Store
 Thumbs.db
 
-# Secrets
+# Segredos
 .env
+secrets/
 *.key
+*.pem
+
+# Simulação pesada
+results/
+cfd/
