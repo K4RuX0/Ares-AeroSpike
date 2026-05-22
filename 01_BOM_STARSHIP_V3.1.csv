@@ -1,0 +1,13 @@
+System,Item,Spec,Mass_kg,USD,TRL
+Propulsion,Aerospike Chamber Inconel-718,101.9mm wall x8,12000,8000000,5
+Propulsion,Central Spike C-C/NbC,4.5m H x8,13687,28000000,4
+Propulsion,NTR Reactor UC-ZrC HALEU,0.6mDx0.9mL x8 @170kN,40000,64000000,5
+Propulsion,LH2 Turbopumps Heavy Cluster,31.1 kg/s @ 125bar,10000,32000000,6
+Structure,LH2 Tank Al-Li (11m Diameter),11mD x 2.2mH,2410,9000000,8
+Structure,ATHENA Habitat Module,380m³ for 6,10000,15000000,7
+EHS,Radiation Shield PE+H2O Matrix,20g/cm²,8000,500000,9
+EHS,ECLSS Closed-Loop Heavy,776 days,5820,20000000,6
+Power,Brayton 100kWe Space Grade,45kg/kWe,4500,10000000,6
+Avionics,ODIN AI Triple Voting Rad-Hard,100krad 10CFR52,3800,1200000,7
+Thermal,Radiators Extended Array,2000m²,2000,4000000,7
+TOTAL,,,112217,211700000,
