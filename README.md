@@ -205,7 +205,7 @@ For that reason, the values in this document should be interpreted as target arc
 
 ARES-STARSHIP V3.1 is a conceptual interplanetary transport platform built around reusable nuclear-thermal propulsion and long-duration crew survival.
 
-Its main strength is the combination of mission ambition, systems thinking, and clear strategic identity. Its next step is to convert that vision into reproducible engineering evidence, simulation-backed validation, and disciplined technical documentation.
+Its strength lies in the combination of mission ambition, systems thinking, and a clear strategic identity. The next step is to convert that vision into reproducible engineering evidence, simulation-backed validation, and disciplined technical documentation.
 
 ## 14. Contributing and Validation
 
