@@ -4,8 +4,8 @@ Problem: Chemical Mars = 9 months, $200M+ per crew, high radiation risks.
 Solution: 680kN (4x 170kN NTR Cluster) Nuclear Aerospike Freighter, 125-day transit.
 
 Technical Edge:
-- Thrust: 4x 170kN NTR = 680kN | Isp: 780s | T/W: 0.51 
-- Pad Mass: 1455.3t | Height: 84.6m | Diameter: 9m (Standard Starship Integration)
+- Thrust: 4x 170kN NTR = 680kN | Isp: 780s | T/W: 0.51
+- Pad Mass: 1452.7t | Height: 84.6m | Diameter: 9m (Standard Starship Integration)
 - Crew Count: 6 | Shielding: 20g/cm² | Power: 100kWe
 - Mission Window: 776 days | Habitat: 380m³ ATHENA Module
 - Heritage: NERVA + 10CFR52 / ITAR Compliant
