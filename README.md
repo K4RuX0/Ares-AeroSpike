@@ -9,7 +9,7 @@
 
 | Parameter | Value |
 | --- | --- |
-| **Objective** | Transport 6 crew + 71t payload to Mars surface with Earth return |
+| **Objective** | Transport 6 crew + 71t payload to Mars orbit with Earth return |
 | **Total Duration** | 776 days = 2.13 years |
 | **Vehicle** | ARES-STARSHIP V3.1 - Reusable NTR Interplanetary Freighter |
 | **Launch Window** | 2034 |
@@ -19,10 +19,10 @@
 ### 1.1 General Specifications
 | Parameter | Value | Note |
 | --- | --- | --- |
-| Total Height | 84 m | Optimized 4x NTR profile |
+| Total Height | 84.6 m | Optimized 4x NTR profile |
 | Diameter | 9 m | Starship compatible |
-| Dry Mass | 213 t | Inc. 4x NTR cluster + ATHENA |
-| Fueled Mass LEO | 1,458 t | 1,127t H2 + 213t dry + 118t tanks |
+| Dry Mass | 199.4 t | Inc. 4x NTR cluster + ATHENA |
+| Fueled Mass LEO | 1,452.7 t | 1,127.0t H2 + 199.4t dry + 126.3t tanks/reserve |
 | Payload to TMI | 71 t | Post-TMI injection to Mars |
 | Payload to Mars Surface | 45 t | After MOI + EDL losses |
 | Crew | 6 people | Long-duration mission |
@@ -33,7 +33,7 @@
 3. **Propellant**: Liquid Hydrogen at 20K. Tanks: 1,127t LH2.
 4. **Isp vacuum**: 780s. 2.05x efficiency vs LOX/CH4 chemical engines.
 5. **Aerospike Nozzle**: Truncated linear, Carbon-Carbon coated with NbC.
-6. **Advantages**: Automatic altitude compensation, thrust vectoring via differential throttle, T/W >0.5.
+6. **Advantages**: Automatic altitude compensation, thrust vectoring via differential throttle, T/W 0.51.
 7. **Service Life**: 15 hours certified burn. Sufficient for 3x Earth-Mars-Earth trips.
 8. **Redundancy**: Loss of 1 engine = T/W 0.38, abort to LEO still possible.
 
@@ -66,7 +66,7 @@
 4x Starship launches place ARES + crew in 400km orbit. 12x tanker flights load 1,127t LH2.
 
 **Phase 2: TMI | T+31**
-28m 14s burn. 680 kN pushes 1,458t to 11.2 km/s. "TMI Complete. Prometheus is on her way."
+28m 14s burn. 680 kN pushes 1,452.7t to 11.2 km/s. "TMI Complete. Prometheus is on her way."
 
 **Phase 3: Cruise | T+32 to T+150**
 119 days. Ship spins at 2.5 RPM on 100m cable for 0.38g. Solar storm shelter protocol.
