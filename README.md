@@ -1,6 +1,6 @@
 # ARES-STARSHIP V3.1 - Prometheus I Mission
 
-**Manned Interplanetary Freighter with Nuclear-Thermal Aerospike Propulsion**
+**Manned Interplanetary Freighter with Nuclear-Thermal Aerospike Propulsion**  
 `CLASSIFICATION: OFFICIAL USE | AUTHOR: RANYELLSON QUINTÃO | DATE: 05/22/2026`
 
 > ARES V3.1 does not take 6 people to Mars. It takes civilization out of the cradle.
@@ -28,14 +28,14 @@
 | Crew | 6 people | Long-duration mission |
 
 ### 1.2 NTR Aerospike Propulsion System
-1. **Reactors**: 4x NTR Units @ 170 kN each. Total: 680 kN in vacuum.
+1. **Reactors**: 4x NTR Units @ 185 kN each. Total: 740 kN in vacuum.
 2. **Core**: Low-enriched uranium in UC-ZrC matrix. Operating temp: 2800K.
 3. **Propellant**: Liquid Hydrogen at 20K. Tanks: 1,127t LH2.
 4. **Isp vacuum**: 780s. 2.05x efficiency vs LOX/CH4 chemical engines.
 5. **Aerospike Nozzle**: Truncated linear, Carbon-Carbon coated with NbC.
-6. **Advantages**: Automatic altitude compensation, thrust vectoring via differential throttle, T/W 0.51.
+6. **Advantages**: Automatic altitude compensation, thrust vectoring via differential throttle, T/W 0.52.
 7. **Service Life**: 15 hours certified burn. Sufficient for 3x Earth-Mars-Earth trips.
-8. **Redundancy**: Loss of 1 engine = T/W 0.38, abort to LEO still possible.
+8. **Redundancy**: Loss of 1 engine = T/W 0.39, abort to LEO still possible.
 
 ### 1.3 "ATHENA" Crew Module
 1. **Habitable Volume**: 380 m³. 63 m³ per crew member.
@@ -62,22 +62,22 @@
 
 ## 3. Voyage Chronology - 776 Days
 
-**Phase 1: LEO Assembly | T+0 to T+30**
+**Phase 1: LEO Assembly | T+0 to T+30**  
 4x Starship launches place ARES + crew in 400km orbit. 12x tanker flights load 1,127t LH2.
 
-**Phase 2: TMI | T+31**
-28m 14s burn. 680 kN pushes 1,452.7t to 11.2 km/s. "TMI Complete. Prometheus is on her way."
+**Phase 2: TMI | T+31**  
+28m 14s burn. 740 kN pushes 1,452.7t to 11.2 km/s. "TMI Complete. Prometheus is on her way."
 
-**Phase 3: Cruise | T+32 to T+150**
+**Phase 3: Cruise | T+32 to T+150**  
 119 days. Ship spins at 2.5 RPM on 100m cable for 0.38g. Solar storm shelter protocol.
 
-**Phase 4: MOI | T+151**
+**Phase 4: MOI | T+151**  
 22min capture burn. Delta-V = 2.1 km/s. 2 of 4 NTRs sufficient for abort.
 
-**Phase 5: Mars Ops | T+152 to T+650**
+**Phase 5: Mars Ops | T+152 to T+650**  
 498 days surface. Land 45t. Build base, 100kW fission reactor, ISRU plant. Produce 200t LCH4/LOX + 50t water for return.
 
-**Phase 6: TEI & Return | T+651 to T+776**
+**Phase 6: TEI & Return | T+651 to T+776**  
 28min departure burn. 125-day cruise. 22min EOI burn + aerocapture at Earth.
 
 ## 4. Threats & Mitigations
@@ -90,7 +90,7 @@
 | MMOD Impact | 4%/year | Whipple shield + evasion | 99.5% no critical breach |
 | Psychological | 30% | Artificial gravity + AI + 6 crew | 95% no mental abort |
 
-**Risk Conclusion**: Loss of Crew 1 in 38 missions. Apollo was 1 in 7.
+**Risk Conclusion**: Loss of Crew 1 in 38 missions. Apollo was 1 in 7.  
 First time Mars has lower risk profile than climbing Everest in 1950.
 
 ## 5. The Legacy
