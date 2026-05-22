@@ -1,4 +1,0 @@
-cd Ares_Aerospike_V3.1          # Entra na pasta do repo
-git mv .gitigno .gitignore      # Renomeia o arquivo com typo pro nome certo
-git commit -m "fix: rename .gitigno to .gitignore"  # Salva a mudança
-git push                        # Manda pro GitHub
